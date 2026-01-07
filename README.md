@@ -14,7 +14,7 @@ A open top case to show of a coloured pcb and on a 5 degree tilt for ease of use
 
 # Cad Model:
 
-The pcb will drop into place for easy access and the top is open to display the pcb plus it has a 5 degree tilt! It was all made in one piece.
+The pcb will drop into place for easy access and the top is open to display the pcb (meaning no top part of case) plus it has a 5 degree tilt! It was all made in one piece.
 
 ![Macropad screenshot](Images/Screenshot%202026-01-06%20205936.png)
 
